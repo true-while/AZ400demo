@@ -1,3 +1,3 @@
 echo "Hello, DevOps!"
 
-echo :Hello, Azure!"
+echo "Hello, Azure!"
